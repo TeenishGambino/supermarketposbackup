@@ -1,0 +1,8 @@
+words_alpha.txt
+function.txt
+a.exe
+.vscode/*
+sqlite3/*
+build-customer-Desktop_Qt_5_12_9_MinGW_32_bit-Debug/*
+build-customer-Desktop_Qt_5_12_9_MinGW_64_bit-Debug/*
+build-timeanddate-Desktop_Qt_5_12_9_MinGW_32_bit-Debug/*
